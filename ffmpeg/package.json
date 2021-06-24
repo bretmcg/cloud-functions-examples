@@ -1,0 +1,12 @@
+{
+  "name": "gcf-ffmpeg-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Bret McGowen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.8.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
